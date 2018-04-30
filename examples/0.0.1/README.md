@@ -1,0 +1,1 @@
+[See our fromtheblock.io blog-post on how to run this example](https://fromtheblock.io/writing-fabric-chaincode-in-javascript/)
