@@ -2,4 +2,4 @@
 
 Examples on how to write Hyperledger Fabric chaincode in Javascript.
 
-[See our fromtheblock.io blog-post on how to run this examples](https://fromtheblock.io/writing-fabric-chaincode-in-javascript/)
+[See our blog.4eyes.ch blog-post on how to run this examples](https://blog.4eyes.ch/writing-fabric-chaincode-in-javascript/)
